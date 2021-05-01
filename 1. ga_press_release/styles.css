@@ -1,0 +1,11 @@
+.body{
+    background-image: url(https://cliqtuning.com/wp-content/uploads/2019/08/bmw-e36-aero-kit-for-drifting-and-stance-cliqtuning-drift-bn-style.jpg);
+    color: rgb(29, 186, 144);
+    background-size: cover;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-shadow: -1px 0 black, 0 1px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px black;
+    flex-direction: row;
+}

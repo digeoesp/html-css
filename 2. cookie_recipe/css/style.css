@@ -1,0 +1,60 @@
+body {
+  background-image: url(https://www.backdropstyle.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/w/-/w-363_1.jpg);
+  background-size: cover;
+  display: flex;
+  padding: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 2px 2px #130909;
+  color: rgb(244, 244, 244);
+  border: 1px solid rgb(73, 55, 55);
+  border-width: medium;
+  
+}
+
+  
+h3 {
+   color: #887;
+}
+
+h4 {
+  color: #887;
+}
+h1{
+  color: rgb(211, 45, 45);
+}
+
+
+a {
+  color: rgb(223, 25, 25);
+}
+
+img {
+	border: 3px solid black;
+  transition: 1s;
+  box-shadow: 1px 1px rgb(191, 191, 201);
+ }
+
+ img:hover{
+  opacity: 15%;
+}
+
+.g-ma{
+  color: rgb(226, 217, 164);
+}
+
+li:hover {
+  color: rgb(210, 44, 163);
+}
+.text{
+  position: relative;
+  bottom: 135px;
+  left: 125px;
+  z-index: -1;
+}
+
+@media screen and (max-width: 900px) {
+  .text{
+    left: 350px;
+   
+  }
+}
